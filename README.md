@@ -1,5 +1,5 @@
 # Hello World! 👋
-- I’m JOaomoTAa17319, im currently working on WAVEos SAIgimp, GBUI and my game Adventure World Gb.
+- I’m JOaomoTAa17319, im currently working on WAVEos, SAIgimp, GBUI and my game, Adventure World Gb.
 - 📫 How to reach me: 
     - joao.santos.mota@outlook.com
 
